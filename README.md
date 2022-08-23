@@ -10,4 +10,4 @@
 
 [![rmassiah's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl76qg8pm00300hl80j536rpz/project/2621730)](https://github.com/JaeSeoKim/badge42)
 
-[![rmassiah's 42 Libft Score](https://badge42.vercel.app/api/v2/cl76qg8pm00300hl80j536rpz/project/2579957)](https://github.com/JaeSeoKim/badge42)
+Libft [![rmassiah's 42 Libft Score](https://badge42.vercel.app/api/v2/cl76qg8pm00300hl80j536rpz/project/2579957)](https://github.com/JaeSeoKim/badge42)
